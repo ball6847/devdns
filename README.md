@@ -2,7 +2,7 @@ devdns
 ======
 
 Simple Development DNS Server written in Python.
-This server will route all whatever `*.dev` domain names to 127.0.0.1.
+This server will route all whatever `*.dev` domain names to `127.0.0.1`.
 So you can quickly start a new project without touching your system's host file.
 
 ## Installation
